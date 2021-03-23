@@ -57,3 +57,14 @@ blockquote
   font-weight: bold;
   color: #ff0000;
 }
+
+th, td
+{
+  border: 1px solid black;
+  padding: 7px;
+}
+
+table
+{
+  border-collapse: collapse;
+}
