@@ -7,3 +7,53 @@
 {
   margin: 0 0 0 10px;
 }
+
+.image-link
+{
+  text-decoration: none;
+}
+
+header
+{
+  text-align: center;
+  margin: 0 0 80px;
+}
+
+.center-heading
+{
+  text-align: center;
+}
+
+.about-softcover
+{
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #d77d23;
+}
+
+.sperm-whale
+{
+  display: block;
+  margin: 0 auto;
+}
+
+.moby-cover
+{
+  float: left;
+  margin: 0 40px 0 0;
+}
+
+blockquote
+{
+  font-style: italic;
+  font-size: 20px;
+}
+
+.blockquote-start
+{
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
